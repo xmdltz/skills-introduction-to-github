@@ -29,7 +29,7 @@ In this exercise, you will:
 
 If you’re not sure where to start, follow this exact sequence:
 
-1. Click **Copy Exercise** to create your own copy of this repository.
+1. Right-click **Copy Exercise** and open it in a new tab.
 2. Wait for the exercise setup to finish, then refresh the page.
 3. Click **Start Exercise** to open the guided issue.
 4. Complete each task in order: branch → commit → pull request → merge.
