@@ -25,6 +25,16 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 
+### Quick “what do I do?” checklist
+
+If you’re not sure where to start, follow this exact sequence:
+
+1. Right-click **Copy Exercise** and open it in a new tab.
+2. Wait for the exercise setup to finish, then refresh the page.
+3. Click **Start Exercise** to open the guided issue.
+4. Complete each task in order: branch → commit → pull request → merge.
+5. Watch the workflow badges at the top of this README to confirm each step passes.
+
 ### How to start this exercise
 
 1. Right-click **Copy Exercise** and open the link in a new tab.
